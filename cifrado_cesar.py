@@ -14,3 +14,5 @@ def cifradoCesar():
         else:
             mensaje += i
     print(mensaje)
+
+cifradoCesar()
